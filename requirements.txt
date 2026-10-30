@@ -1,0 +1,5 @@
+pandas>=2.0
+pyarrow>=14.0
+pytest>=8.0
+# Optional, only needed to run the Airflow DAG (not the local pipeline):
+# apache-airflow>=2.9
